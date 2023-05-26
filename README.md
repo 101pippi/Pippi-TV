@@ -1,5 +1,6 @@
 <p align="center">
     <a> <img src=.assets/logo.png></a>
+	<a> 
     <br />
     <br />
 	<a href="https://github.com/neppe/pippi-tv/stargazers"><img src="https://img.shields.io/github/stars/neppe/pippi-tv?color=orange&logo=github&style=flat-square"></a>
@@ -25,7 +26,7 @@
 ---
 
 # Table Of Contents
-
+![live]
 * [`Dependencies`](#Dependencies)
 * [`Install`](#Install)
 * [`Features`](#Features)
